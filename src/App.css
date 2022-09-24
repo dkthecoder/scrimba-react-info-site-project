@@ -41,6 +41,10 @@ nav {
 main {
   padding: 57px 27px;
   background-color:dimgray;
+  background-image: url(/public/REACT-JS-KOCHI.png);
+  background-repeat: no-repeat;
+  background-position: 75% 50%;
+  background-size: 30%;
 }
 
 .main--title{
@@ -48,6 +52,7 @@ main {
   margin: 0;
   font-size: 39px;
   letter-spacing:-0.05em;
+  padding-left: 5%;
 }
 
 .main--facts {
@@ -56,6 +61,7 @@ main {
   font-family: 'Times New Roman', Times, serif;
   font-style: normal;
   font-weight: normal;
+  padding-left: 10%;
 }
 
 .main--facts > li {
